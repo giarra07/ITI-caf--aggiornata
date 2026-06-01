@@ -17,9 +17,7 @@ dist-ssr
 *.local
 
 # Audio traccia (copyright — solo locale, non committare su repo pubblico)
-public/audio/*.mp3
-public/audio/*.webm
-public/audio/*.ogg
+
 
 # Wrangler / Cloudflare
 .wrangler/
